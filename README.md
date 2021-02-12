@@ -1,6 +1,8 @@
 # projects
 This is a repository containing all the projects I've worked on until now and future projects I plan to build
 
+0. I plan to do 100 exercises when I'm done with the course I'm doing online right now: https://github.com/g-serban/Python-exercises
+
 1. madlibs v1 : https://github.com/g-serban/madlibs
 
 2. madlibs v2 : https://github.com/g-serban/madlibs_v2
