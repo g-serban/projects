@@ -37,7 +37,7 @@ This is a repository containing all the projects I've worked on until now and fu
 
 -17. GUI app
 
--18. make a clock 
+18. make a clock : https://github.com/g-serban/clock
 
 -19. gui desktop calculator
 
