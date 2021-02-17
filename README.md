@@ -21,9 +21,9 @@ This is a repository containing all the projects I've worked on until now and fu
 
 -9. tic tac toe 
 
--10. tic tac toe ai
+-10. make a clock : https://github.com/g-serban/clock
 
--11. binary search
+-11. simple translator : https://github.com/g-serban/simple-translator
 
 -12. minesweeper
 
@@ -37,7 +37,7 @@ This is a repository containing all the projects I've worked on until now and fu
 
 -17. GUI app
 
-18. make a clock : https://github.com/g-serban/clock
+-18. tic tac toe ai
 
 -19. gui desktop calculator
 
@@ -46,3 +46,5 @@ This is a repository containing all the projects I've worked on until now and fu
 -21. gradebook with pandas
 
 -22. a chess game with a chess engine 
+
+-23. binary search
