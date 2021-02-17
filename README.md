@@ -19,7 +19,7 @@ This is a repository containing all the projects I've worked on until now and fu
 
 8. hangman : https://github.com/g-serban/hangman
 
--9. tic tac toe 
+-9. tic tac toe : https://github.com/g-serban/tic-tac-toe
 
 -10. make a clock : https://github.com/g-serban/clock
 
