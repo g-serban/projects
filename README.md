@@ -19,13 +19,13 @@ This is a repository containing all the projects I've worked on until now and fu
 
 8. hangman : https://github.com/g-serban/hangman
 
--9. tic tac toe : https://github.com/g-serban/tic-tac-toe
+9. tic tac toe : https://github.com/g-serban/tic-tac-toe
 
--10. make a clock : https://github.com/g-serban/clock
+10. make a clock : https://github.com/g-serban/clock
 
--11. simple translator : https://github.com/g-serban/simple-translator
+11. simple translator : https://github.com/g-serban/simple-translator
 
--12. ISS real-time coordinates: https://github.com/g-serban/ISS-real-time-coordinates
+12. ISS real-time coordinates: https://github.com/g-serban/ISS-real-time-coordinates
 
 -13. sudoku solver
 
