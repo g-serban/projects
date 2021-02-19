@@ -25,7 +25,7 @@ This is a repository containing all the projects I've worked on until now and fu
 
 -11. simple translator : https://github.com/g-serban/simple-translator
 
--12. minesweeper
+-12. ISS real-time coordinates: https://github.com/g-serban/ISS-real-time-coordinates
 
 -13. sudoku solver
 
@@ -48,3 +48,5 @@ This is a repository containing all the projects I've worked on until now and fu
 -22. a chess game with a chess engine 
 
 -23. binary search
+
+-24. minesweeper
