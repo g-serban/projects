@@ -1,7 +1,7 @@
 # projects
 This is a repository containing all the projects I've worked on until now 
 
--. I plan to do 100 exercises when I'm done with the course I'm following online right now: https://github.com/g-serban/Python-exercises
+*. I plan to do 100 exercises when I'm done with the course I'm following online right now: https://github.com/g-serban/Python-exercises
 
 
 1. madlibs v1 : https://github.com/g-serban/madlibs
