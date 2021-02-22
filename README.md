@@ -27,26 +27,6 @@ This is a repository containing all the projects I've worked on until now and fu
 
 12. ISS real-time coordinates: https://github.com/g-serban/ISS-real-time-coordinates
 
--13. sudoku solver
+13. a simple password checker using regex: https://github.com/g-serban/a-simple-psw-checker-using-regex
 
--14. photo manipulation 
 
--15. markow chain text composer
-
--16. find the ISS
-
--17. GUI app
-
--18. tic tac toe ai
-
--19. gui desktop calculator
-
--20. twitter, discord, instagram and trading bots
-
--21. gradebook with pandas
-
--22. a chess game with a chess engine 
-
--23. binary search
-
--24. minesweeper
