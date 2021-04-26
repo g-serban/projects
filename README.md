@@ -1,8 +1,12 @@
 # projects
 This is a repository containing all the projects I've worked on until now 
 
-*. I plan to do 100 exercises when I'm done with the course I'm following online right now: https://github.com/g-serban/Python-exercises
+# I. 100 Python exercises: 
+https://github.com/g-serban/Python-exercises
 
+-----------------------------------
+
+# II. small projects:
 
 1. madlibs v1 : https://github.com/g-serban/madlibs
 
@@ -31,3 +35,37 @@ This is a repository containing all the projects I've worked on until now
 13. a simple password checker using regex: https://github.com/g-serban/a-simple-psw-checker-using-regex
 
 
+# III. Scripting
+
+-----------------------------------
+
+# IV. Data scrapping
+
+-----------------------------------
+
+# V. Web dev:
+
+1. Static website: portofolio (using Flask for backend)
+
+2. Dynamic website: IMDB movie generator (deployed on AWS, serverless computing)
+
+-----------------------------------
+
+# VI. Pygame
+
+1. smaller game/s
+
+2. chess engine 
+
+-----------------------------------
+
+# VII. Kiwi
+
+-----------------------------------
+
+# VIII. Data science & machine learning
+
+
+
+
+INFO: https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
