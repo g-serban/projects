@@ -1,4 +1,4 @@
-# projects
+# my_projects
 This is a repository containing all the projects I've worked on until now 
 
 # I. 100 Python exercises: 
