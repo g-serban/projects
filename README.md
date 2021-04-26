@@ -68,6 +68,10 @@ https://github.com/g-serban/Python-exercises
 
 # VII. Kiwi
 
+1. finance app
+
+2. health app
+
 -----------------------------------
 
 
