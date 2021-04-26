@@ -6,6 +6,7 @@ https://github.com/g-serban/Python-exercises
 
 -----------------------------------
 
+
 # II. small projects:
 
 1. madlibs v1 : https://github.com/g-serban/madlibs
@@ -34,14 +35,18 @@ https://github.com/g-serban/Python-exercises
 
 13. a simple password checker using regex: https://github.com/g-serban/a-simple-psw-checker-using-regex
 
+-----------------------------------
+
 
 # III. Scripting
 
 -----------------------------------
 
+
 # IV. Data scrapping
 
 -----------------------------------
+
 
 # V. Web dev:
 
@@ -51,6 +56,7 @@ https://github.com/g-serban/Python-exercises
 
 -----------------------------------
 
+
 # VI. Pygame
 
 1. smaller game/s
@@ -59,9 +65,11 @@ https://github.com/g-serban/Python-exercises
 
 -----------------------------------
 
+
 # VII. Kiwi
 
 -----------------------------------
+
 
 # VIII. Data science & machine learning
 
