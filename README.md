@@ -4,7 +4,7 @@ This is a repository containing all the projects I've worked on until now
 # I. 100 Python exercises: 
 https://github.com/g-serban/Python-exercises
 
-
+-----------------------------------
 
 
 # II. small projects:
