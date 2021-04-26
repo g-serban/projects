@@ -36,27 +36,29 @@ https://github.com/g-serban/Python-exercises
 
 # IV. Data scrapping
 
-# V. Web dev:
+# V. Testing with Selenium
+
+# VI. Web dev:
 
 1. Static website: portofolio (using Flask for backend)
 
 2. Dynamic website: IMDB movie generator (deployed on AWS, serverless computing)
 
-# VI. Pygame
+# VII. Pygame
 
 1. smaller game/s
 
 2. chess engine 
 
-# VII. Kiwi
+# VIII. Kiwi
 
 1. finance app
 
 2. health app
 
-# VIII. Data science & machine learning
-
 # IX. Bigger projects
+
+# X. Data science & machine learning
 
 
 
