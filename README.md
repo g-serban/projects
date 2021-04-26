@@ -4,9 +4,6 @@ This is a repository containing all the projects I've worked on until now
 # I. 100 Python exercises: 
 https://github.com/g-serban/Python-exercises
 
------------------------------------
-
-
 # II. small projects:
 
 1. madlibs v1 : https://github.com/g-serban/madlibs
@@ -35,18 +32,9 @@ https://github.com/g-serban/Python-exercises
 
 13. a simple password checker using regex: https://github.com/g-serban/a-simple-psw-checker-using-regex
 
------------------------------------
-
-
 # III. Scripting
 
------------------------------------
-
-
 # IV. Data scrapping
-
------------------------------------
-
 
 # V. Web dev:
 
@@ -54,17 +42,11 @@ https://github.com/g-serban/Python-exercises
 
 2. Dynamic website: IMDB movie generator (deployed on AWS, serverless computing)
 
------------------------------------
-
-
 # VI. Pygame
 
 1. smaller game/s
 
 2. chess engine 
-
------------------------------------
-
 
 # VII. Kiwi
 
@@ -72,10 +54,9 @@ https://github.com/g-serban/Python-exercises
 
 2. health app
 
------------------------------------
-
-
 # VIII. Data science & machine learning
+
+# IX. Bigger projects
 
 
 
