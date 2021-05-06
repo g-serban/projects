@@ -46,7 +46,7 @@ https://github.com/g-serban/Python-exercises
 
 # VII. Pygame
 
-1. smaller game/s
+1. asteroid game: https://github.com/g-serban/asteroid-game
 
 2. chess engine 
 
