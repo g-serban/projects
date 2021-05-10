@@ -40,9 +40,11 @@ https://github.com/g-serban/Python-exercises
 
 # VI. Web dev:
 
-1. Static website: portofolio (using Flask for backend)
+1. Task Master: https://github.com/g-serban/task-master
 
-2. Dynamic website: IMDB movie generator (deployed on AWS, serverless computing)
+2. Static website: portofolio (using Flask for backend)
+
+3. Dynamic website: IMDB movie generator (deployed on AWS, serverless computing)
 
 # VII. Pygame
 
