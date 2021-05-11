@@ -32,7 +32,8 @@ https://github.com/g-serban/Python-exercises
 
 13. a simple password checker using regex: https://github.com/g-serban/a-simple-psw-checker-using-regex
 
-# III. Scripting: https://github.com/g-serban/scripting
+# III. Scripting: 
+    https://github.com/g-serban/scripting
 
 # IV. Data scrapping
 
