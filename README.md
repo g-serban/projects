@@ -46,23 +46,25 @@ https://github.com/g-serban/Python-exercises
 
 3. Dynamic website: IMDB movie generator (deployed on AWS, serverless computing)
 
-# VII. Pygame
+# VII. GUI:
+
+1. "Workspace opener"
+2. 
+3. Desktop Calculator
+
+# VIII. Pygame
 
 1. asteroid game: https://github.com/g-serban/asteroid-game
 
 2. chess engine 
 
-# VIII. Kiwi
+# IX. Kiwi
 
 1. finance app
 
 2. health app
 
-# IX. Bigger projects
-
 # X. Data science & machine learning
 
+# XI. Other projects
 
-
-
-INFO: https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
