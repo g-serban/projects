@@ -46,6 +46,8 @@ https://github.com/g-serban/Python-exercises
 
 3. Dynamic website: IMDB movie generator (deployed on AWS, serverless computing)
 
+4. Flask + simple dash apps: https://github.com/g-serban/dash
+
 # VII. GUI:
 
 1. "Workspace opener"
