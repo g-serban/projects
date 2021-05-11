@@ -51,9 +51,9 @@ https://github.com/g-serban/Python-exercises
 
 # VII. GUI:
 
-1. "Workspace opener"
-2. 
-3. Desktop Calculator
+1. "Workspace opener": https://github.com/g-serban/workspace-opener
+2. Desktop Calculator: 
+3. 
 
 # VIII. Pygame
 
