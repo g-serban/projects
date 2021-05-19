@@ -38,9 +38,12 @@ https://github.com/g-serban/Python-exercises
 # III. Scripting: 
     https://github.com/g-serban/scripting
 
+
 # IV. Data scrapping
 
+
 # V. Testing with Selenium
+
 
 # VI. Web dev:
 
@@ -52,17 +55,22 @@ https://github.com/g-serban/Python-exercises
 
 4. Flask + simple dash apps: https://github.com/g-serban/dash
 
+5. simple login page and cookie management: https://github.com/g-serban/simple-flask-login-page
+
+
 # VII. GUI:
 
 1. "Workspace opener": https://github.com/g-serban/workspace-opener
 2. Desktop Calculator: 
 3. 
 
+
 # VIII. Pygame
 
 1. asteroid game: https://github.com/g-serban/asteroid-game
 
 2. chess engine 
+
 
 # IX. Kiwi
 
