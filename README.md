@@ -32,7 +32,7 @@ https://github.com/g-serban/Python-exercises
 
 13. a simple password checker using regex: https://github.com/g-serban/a-simple-psw-checker-using-regex
 
-14. tic tac toe v2: https://github.com/g-serban/tic-tac-toe-v2
+14. tic tac toe v2 (AI uses minimax algo): https://github.com/g-serban/tic-tac-toe-v2
 
 
 # III. Scripting: 
