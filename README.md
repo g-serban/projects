@@ -57,6 +57,8 @@ https://github.com/g-serban/Python-exercises
 
 5. simple login page and cookie management: https://github.com/g-serban/simple-flask-login-page
 
+6. a more complex and secure (using blueprint) flask app with login page, signup, logout and profile: https://github.com/g-serban/auth-flask
+
 
 # VII. GUI:
 
