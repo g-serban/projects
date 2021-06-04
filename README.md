@@ -73,6 +73,12 @@ https://github.com/g-serban/Python-exercises
 
 2. chess engine 
 
+Pong
+Snake
+Connect Four
+Tetris
+Online Multiplayer Game
+
 
 # IX. Kiwi
 
@@ -82,5 +88,11 @@ https://github.com/g-serban/Python-exercises
 
 # X. Data science & machine learning
 
-# XI. Other projects
+# XI. Computer vision
+
+    Gesture Volume Control
+    Finger Counter
+    AI Personal Trainer
+    AI Virtual Painter
+    AI Virtual Mouse
 
