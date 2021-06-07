@@ -51,7 +51,7 @@ https://github.com/g-serban/Python-exercises
 
 2. Static website: portofolio (using Flask for backend)
 
-3. Dynamic website: IMDB movie generator (deployed on AWS, serverless computing)
+3. Dynamic website: IMDB movie generator using Flask and IMDB API's : https://github.com/g-serban/movie-generator
 
 4. Flask + simple dash apps: https://github.com/g-serban/dash
 
