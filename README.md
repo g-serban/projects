@@ -90,9 +90,9 @@ Online Multiplayer Game
 
 # XI. Computer vision
 
-    Gesture Volume Control
-    Finger Counter
-    AI Personal Trainer
-    AI Virtual Painter
-    AI Virtual Mouse
+main: https://github.com/g-serban/computer-vision/tree/main
+
+1. hand-tracking: https://github.com/g-serban/cv-hand-tracking
+
+2. pose-estimation: https://github.com/g-serban/cv-pose-estimation
 
