@@ -95,4 +95,6 @@ main: https://github.com/g-serban/computer-vision/tree/main
 1. hand-tracking: https://github.com/g-serban/cv-hand-tracking
 
 2. pose-estimation: https://github.com/g-serban/cv-pose-estimation
+3. 
+4. 3. face-detection: https://github.com/g-serban/cv-face-detection
 
