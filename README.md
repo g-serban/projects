@@ -1,10 +1,4 @@
 # my_projects
-This is a repository containing all the projects I've worked on until now 
-
-# I. 100 Python exercises: 
-https://github.com/g-serban/Python-exercises
-
-# II. small projects:
 
 1. madlibs v1 : https://github.com/g-serban/madlibs
 
@@ -34,67 +28,26 @@ https://github.com/g-serban/Python-exercises
 
 14. tic tac toe v2 (AI uses minimax algo): https://github.com/g-serban/tic-tac-toe-v2
 
+Scripting: https://github.com/g-serban/scripting
 
-# III. Scripting: 
-    https://github.com/g-serban/scripting
+Web Dev:
+- Task Master: https://github.com/g-serban/task-master
+- Static website: portofolio (using Flask for backend)
+- Dynamic website: IMDB movie generator using Flask and IMDB API's : https://github.com/g-serban/movie-generator
+- Flask + simple dash apps: https://github.com/g-serban/dash
+- simple login page and cookie management: https://github.com/g-serban/simple-flask-login-page
+- a more complex and secure (using blueprint) flask app with login page, signup, logout and profile: https://github.com/g-serban/auth-flask
 
+GUI:
+- Workspace opener: https://github.com/g-serban/workspace-opener
 
-# IV. Data scrapping
+Pygame
+- asteroid game: https://github.com/g-serban/asteroid-game
 
+CV
+- main: https://github.com/g-serban/computer-vision/tree/main
 
-# V. Testing with Selenium
-
-
-# VI. Web dev:
-
-1. Task Master: https://github.com/g-serban/task-master
-
-2. Static website: portofolio (using Flask for backend)
-
-3. Dynamic website: IMDB movie generator using Flask and IMDB API's : https://github.com/g-serban/movie-generator
-
-4. Flask + simple dash apps: https://github.com/g-serban/dash
-
-5. simple login page and cookie management: https://github.com/g-serban/simple-flask-login-page
-
-6. a more complex and secure (using blueprint) flask app with login page, signup, logout and profile: https://github.com/g-serban/auth-flask
-
-
-# VII. GUI:
-
-1. "Workspace opener": https://github.com/g-serban/workspace-opener
-2. Desktop Calculator: 
-3. 
-
-
-# VIII. Pygame
-
-1. asteroid game: https://github.com/g-serban/asteroid-game
-
-2. chess engine 
-
-Pong
-Snake
-Connect Four
-Tetris
-Online Multiplayer Game
-
-
-# IX. Kiwi
-
-1. finance app
-
-2. health app
-
-# X. Data science & machine learning
-
-# XI. Computer vision
-
-main: https://github.com/g-serban/computer-vision/tree/main
-
-1. hand-tracking: https://github.com/g-serban/cv-hand-tracking
-
-2. pose-estimation: https://github.com/g-serban/cv-pose-estimation
-3. 
-4. 3. face-detection: https://github.com/g-serban/cv-face-detection
+- hand-tracking: https://github.com/g-serban/cv-hand-tracking
+- pose-estimation: https://github.com/g-serban/cv-pose-estimation
+- face-detection: https://github.com/g-serban/cv-face-detection
 
