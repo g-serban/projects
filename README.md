@@ -17,7 +17,7 @@
 
 Scripting: https://github.com/g-serban/scripting
 
-Web Dev:
+Web Dev
 - Task Master: https://github.com/g-serban/task-master
 - Static website: portofolio (using Flask for backend)
 - Dynamic website: IMDB movie generator using Flask and IMDB API's : https://github.com/g-serban/movie-generator
@@ -25,7 +25,7 @@ Web Dev:
 - simple login page and cookie management: https://github.com/g-serban/simple-flask-login-page
 - a more complex and secure (using blueprint) flask app with login page, signup, logout and profile: https://github.com/g-serban/auth-flask
 
-GUI:
+GUI
 - Workspace opener: https://github.com/g-serban/workspace-opener
 
 Pygame
